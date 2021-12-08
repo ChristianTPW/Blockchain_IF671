@@ -1,6 +1,5 @@
 const path = require("path");
-const mnemonic =
-  "injury matrix expect fish december coffee frame price crack chest sport doctor";
+const mnemonic = ""; //fill with secret key, purposely removed
 const HDWalletProvider = require("@truffle/hdwallet-provider");
 
 module.exports = {
